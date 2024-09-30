@@ -145,6 +145,9 @@ Kazuhito Takahashi(https://twitter.com/KzhtTkhs)
 
 # Translation and other improvements
 Nikita Kiselov(https://github.com/kinivi)
+
+# music generation integration
+Eric Kuo(https://github.com/weige15)
  
 # License 
 hand-gesture-recognition-using-mediapipe is under [Apache v2 license](LICENSE).
